@@ -1,0 +1,24 @@
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.deps.json
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.dll
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Model.dll
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csprojAssemblyReference.cache
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.AssemblyInfoInputs.cache
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.AssemblyInfo.cs
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csproj.CopyComplete
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.pdb
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.dll
+C:\Users\HP 840 G2\source\repos\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.pdb
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.deps.json
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.dll
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.pdb
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Model.dll
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\bin\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csprojAssemblyReference.cache
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.AssemblyInfoInputs.cache
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.AssemblyInfo.cs
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.csproj.CopyComplete
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.dll
+C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Repository\obj\Debug\netcoreapp3.1\IcmaLearn.Repository.pdb
