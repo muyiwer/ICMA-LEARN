@@ -5755,11 +5755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
+      "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
       "projectName": "IcmaLearn.Model",
-      "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
+      "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
       "packagesPath": "C:\\Users\\HP 840 G2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\obj\\",
+      "outputPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

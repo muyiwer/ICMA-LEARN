@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4MUtYsnW1wFVjd/6cfv+nDdvbS89v+FodEBkTbddDyu3FXmaVXcp6drF0Cq8wXIJh9nhcSi1hHjOjZwZH9c7w==",
+  "dgSpecHash": "wu18Hnf0GBt52kh+V5dmk+iuK7GrusPzl6PxXCoDuLCqTNG/wbEppWi6Q2JV5Y9FTnlCWFqx7HarblnuZUsPdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
+  "projectFilePath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP 840 G2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP 840 G2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

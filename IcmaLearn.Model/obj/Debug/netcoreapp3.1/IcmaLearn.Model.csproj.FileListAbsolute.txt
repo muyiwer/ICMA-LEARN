@@ -21,3 +21,15 @@ C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.dll
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.genruntimeconfig.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\bin\Debug\netcoreapp3.1\IcmaLearn.Model.deps.json
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\bin\Debug\netcoreapp3.1\IcmaLearn.Model.runtimeconfig.json
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\bin\Debug\netcoreapp3.1\IcmaLearn.Model.runtimeconfig.dev.json
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\bin\Debug\netcoreapp3.1\IcmaLearn.Model.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\bin\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.csprojAssemblyReference.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.AssemblyInfoInputs.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.AssemblyInfo.cs
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Model\obj\Debug\netcoreapp3.1\IcmaLearn.Model.genruntimeconfig.cache

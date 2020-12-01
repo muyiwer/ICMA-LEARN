@@ -26,3 +26,17 @@ C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.csproj.CopyComplete
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.dll
 C:\Users\HP 840 G2\Documents\Visual Studio 2019\Projects\IcmaLearnWebApplication\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Business.deps.json
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Business.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Business.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Model.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Model.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\bin\Debug\netcoreapp3.1\IcmaLearn.Repository.pdb
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.csprojAssemblyReference.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.AssemblyInfoInputs.cache
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.AssemblyInfo.cs
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.csproj.CopyComplete
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.dll
+C:\Users\HP 840 G2\Documents\GitHub\ICMA-LEARN\IcmaLearn.Business\obj\Debug\netcoreapp3.1\IcmaLearn.Business.pdb

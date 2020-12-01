@@ -20,7 +20,7 @@ namespace IcmaLearnWebApplication.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return Redirect("IcmaLearn/create_course.html");
         }
 
         public IActionResult Privacy()

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6FlCFmUF5ab50un395DIyZ7Mpp8Svb10p+SCNCYVu+Hk0i2hWX609AfLNt1FavqE92oVr1p0tG4qbAw5C4ukAw==",
+  "dgSpecHash": "I3UvkC1wc3OUyuDe6t4IyA7Hij0zYH61LuU0hpP7HbVTuH+fIcSNj/PRBOp/421o/CC9PPb+hReyYo4xHHAnyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP 840 G2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP 840 G2\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj": {}
+    "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\IcmaLearn.Business.csproj": {
+    "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\IcmaLearn.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\IcmaLearn.Business.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\IcmaLearn.Business.csproj",
         "projectName": "IcmaLearn.Business",
-        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\IcmaLearn.Business.csproj",
+        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\IcmaLearn.Business.csproj",
         "packagesPath": "C:\\Users\\HP 840 G2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,11 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
-                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj"
+              "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
+                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj"
               },
-              "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj": {
-                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj"
+              "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj": {
+                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
+    "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
         "projectName": "IcmaLearn.Model",
-        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
+        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj",
         "packagesPath": "C:\\Users\\HP 840 G2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj": {
+    "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj",
         "projectName": "IcmaLearn.Repository",
-        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj",
+        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\IcmaLearn.Repository.csproj",
         "packagesPath": "C:\\Users\\HP 840 G2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Repository\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -165,8 +165,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
-                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Model\\IcmaLearn.Model.csproj"
+              "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj": {
+                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Model\\IcmaLearn.Model.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj": {
+    "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
         "projectName": "IcmaLearnWebApplication",
-        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
+        "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\IcmaLearnWebApplication.csproj",
         "packagesPath": "C:\\Users\\HP 840 G2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearnWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearnWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -232,8 +232,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\IcmaLearn.Business.csproj": {
-                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\Visual Studio 2019\\Projects\\IcmaLearnWebApplication\\IcmaLearn.Business\\IcmaLearn.Business.csproj"
+              "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\IcmaLearn.Business.csproj": {
+                "projectPath": "C:\\Users\\HP 840 G2\\Documents\\GitHub\\ICMA-LEARN\\IcmaLearn.Business\\IcmaLearn.Business.csproj"
               }
             }
           }
